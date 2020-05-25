@@ -1,0 +1,12 @@
+FROM ubuntu:latest
+MAINTAINER webmaster@localhost
+
+RUN apt-get update
+RUN DEBIAN_FRONTEND="noninteractive" apt-get -y install tzdata
+RUN apt-get install php php-mysql php-cgi libapache2-mod-php -y
+
+
+COPY . var/www/html/
+RUN rm /var/www/html/index.html
+
+CMD /usr/sbin/apache2ctl -D FOREGROUND
