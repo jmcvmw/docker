@@ -1,0 +1,12 @@
+
+docker run -d -p 80:80 01-red
+
+docker build -t 02-blue:1.0 .
+docker image ls
+docker image tag 02-blue jmcvmw/02-blue:latest
+docker image ls
+docker image push jmcvmw/02-blue:latest
+
+
+
+docker run -d -p 80:80 jmcvmw/02-blue:latest

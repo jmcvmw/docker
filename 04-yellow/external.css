@@ -1,0 +1,22 @@
+
+h1,h2,h3,h4,h5,h6,p {    text-align: center;  }
+
+h1{font-size:60px;}
+h2{font-size:60px;}
+h3{font-size:136px;}
+h4{font-size:124px;}
+h5{font-size:120px;}
+h6{font-size:118px;} 
+p{font-size:200px;} 
+
+h1 { color : lime ; background : black }
+h2 { color : white ; background : grey }
+p  { color : white  }
+
+
+h1,h2,h3,h4,h5,h6{font-family:serif}
+h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.w3-wide{letter-spacing:4px}
+
+p{font-family:serif}
+p{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.w3-wide{letter-spacing:4px}
+
