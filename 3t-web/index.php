@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>container - jmcvmw/00-default</title>
+<title>container - jmcvmw/3t-web</title>
 <link rel="stylesheet" href="./css/styles.css" type="text/css" > 
-<link rel='icon' href='./favicon/00-default.ico' type='image/x-icon'/ >
+<link rel='icon' href='./favicon/3t-web.ico' type='image/x-icon'/ >
 </head>
 <body>
 
@@ -20,29 +20,13 @@ echo "Server : $ip_server  -  Port : $ip_port";
 ?></h1>
 
 
-<p style="background-color:darkgrey">00-DEFAULT</p>
 
-
-<h3>DATABASE</h3>
-<p class="aligncenter">
-<img src="./images/3t-database.png" alt="Database" width="240"
-         height="240" class="center">
-</p>
-<h3>DATABASE</h3>
-
-
-<h4>APP</h4>
-<p class="aligncenter">
-<img src="./images/3t-app.png" alt="Database" width="240"
-         height="240 class="center"">
-</p>
-<h4>APP</h4>
 
 
 <h5>WEB</h5>
 <p class="aligncenter">
-<img src="./images/3t-web.png" alt="Database" width="240"
-         height="240" class="center">
+<img src="./images/3t-web.png" alt="Database" width="120"
+         height="120" class="center">
 </p>
 <h5>WEB</h5>
 
