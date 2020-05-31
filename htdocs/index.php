@@ -25,24 +25,24 @@ echo "Server : $ip_server  -  Port : $ip_port";
 
 <h3>DATABASE</h3>
 <p class="aligncenter">
-<img src="./images/3t-database.png" alt="Database" width="240"
-         height="240" class="center">
+<img src="./images/3t-database.png" alt="Database" width="120"
+         height="120" class="center">
 </p>
 <h3>DATABASE</h3>
 
 
 <h4>APP</h4>
 <p class="aligncenter">
-<img src="./images/3t-app.png" alt="Database" width="240"
-         height="240 class="center"">
+<img src="./images/3t-app.png" alt="Database" width="120"
+         height="120 class="center"">
 </p>
 <h4>APP</h4>
 
 
 <h5>WEB</h5>
 <p class="aligncenter">
-<img src="./images/3t-web.png" alt="Database" width="240"
-         height="240" class="center">
+<img src="./images/3t-web.png" alt="Database" width="120"
+         height="120" class="center">
 </p>
 <h5>WEB</h5>
 

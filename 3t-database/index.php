@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>container - jmcvmw/01-red</title>
+<title>container - jmcvmw/3t-database</title>
 <link rel="stylesheet" href="./css/styles.css" type="text/css" > 
-<link rel='icon' href='./favicon/01-red.ico' type='image/x-icon'/ >
+<link rel='icon' href='./favicon/3t-database.ico' type='image/x-icon'/ >
 </head>
 <body>
 
@@ -20,7 +20,15 @@ echo "Server : $ip_server  -  Port : $ip_port";
 ?></h1>
 
 
-<p style="background-color:red">01-RED</p>
+<h3>DATABASE</h3>
+<p class="aligncenter">
+<img src="./images/3t-database.png" alt="Database" width="120"
+         height="120" class="center">
+</p>
+<h3>DATABASE</h3>
+
+
+
 
 <h2>
 <?php 
